@@ -33,7 +33,7 @@ A Dating website created with Angular and ASP.NET
 
 Main Author: David Del Val
 
-Github: [ddelval390](https://github.com/ddelvalfraire)
+Github: [ddelvalfraire](https://github.com/ddelvalfraire)
 
 ## License
 
